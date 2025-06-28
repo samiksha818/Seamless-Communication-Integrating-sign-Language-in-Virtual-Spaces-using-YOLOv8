@@ -1,0 +1,2 @@
+# Seamless-Communication-Integrating-sign-Language-in-Virtual-Spaces-using-YOLOv8
+Sure! Here's a concise 2–3 line description for your GitHub project:  > This project uses **YOLOv8** to recognize Sign Language gestures in real time and convert them into text, enabling seamless communication in virtual spaces. It promotes accessibility and inclusivity in platforms like online meetings, education, and VR environments.

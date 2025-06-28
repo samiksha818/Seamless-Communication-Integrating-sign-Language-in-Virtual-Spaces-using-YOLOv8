@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../test/images
+
+nc: 18
+names: ['Call me', 'Calm down', 'Dislike', 'Good Luck', 'Goodjob', 'Hello', 'Hurts a lot', 'I Hate You', 'I need Help', 'I Want to Talk', 'Im okay', 'Looser', 'Namaste', 'No', 'Pain', 'Stop', 'Victory', 'You']
